@@ -1,0 +1,2 @@
+source /media/antoni/DATA/Proj/open-scope/firmware/build/gdbinit/symbols
+source /media/antoni/DATA/Proj/open-scope/firmware/build/gdbinit/connect

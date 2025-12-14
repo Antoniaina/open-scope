@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/media/antoni/DATA/Proj/open-scope/firmware/build/CMakeFiles/bootloader
+/media/antoni/DATA/Proj/open-scope/firmware/build/CMakeFiles/bootloader.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/CMakeFiles/bootloader-complete.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/media/antoni/DATA/Proj/open-scope/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
